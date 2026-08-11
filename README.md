@@ -1,5 +1,26 @@
-# Vue 3 + Vite
+# Vue Counting Machine
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A simple counter application with increment, decrement, and reset buttons. Built with Vue 3 and the Composition API as my first Vue project.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## ✨ Features
+
+- Increment the counter
+- Decrement the counter
+- Reset to zero
+- The number changes color based on its value (green / red / white)
+
+## 🛠️ Tech Stack
+
+- Vue 3 with Composition API (`<script setup>`)
+- Vite
+- JavaScript
+- CSS custom properties and `scoped` styles
+
+## 🚀 Getting Started
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/MrCrowTech/Vue-counting-machine.git
+cd Vue-counting-machine
+npm install
